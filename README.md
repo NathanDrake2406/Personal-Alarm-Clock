@@ -1,1 +1,6 @@
 A minimal web-based alarm clock with built-in sounds and custom audio support. Why? This is for a niche subset of people like me, who's trying to seperate myself from the phone, and is too cheap to buy a physical alarm clock, who also happens to leave their computer on 24/7.
+
+
+NOTES:
+The audio file is stored in browser memory only for the session
+If you refresh the page, you'll need to re-select your audio file
