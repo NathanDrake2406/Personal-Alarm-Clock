@@ -1,10 +1,10 @@
 // Sound file mappings
 const SOUNDS = {
-    radar: 'sounds/iPhone Radar AlarmRingtone Apple Sound - Sound Effect for Editin.mp3',
-    dawn: 'sounds/Dawn Birds Deliberate V2 - The Calm by Stuart McFarlane.mp3',
-    heavy: 'sounds/Alarm Clock For Heavy Sleepers Loud.mp3',
-    danger: 'sounds/Danger Alarm Sound Effect.mp3',
-    goggins: 'sounds/goggins-trimmed.mp3'
+  radar:  'sounds/alarm-radar.mp3',
+  dawn:   'sounds/dawn-birds-the-calm-stuart-mcfarlane.mp3',
+  heavy:  'sounds/alarm-heavy-sleeper-loud.mp3',
+  danger: 'sounds/alarm-danger.mp3',
+  goggins:'sounds/goggins.mp3'
 };
 
 // Elements
